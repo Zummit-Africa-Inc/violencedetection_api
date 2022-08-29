@@ -1,2 +1,14 @@
-# violencedetection_api
-With this API, users can determine whether an image is violent or not. It predicts whether images depict killing, gunfire, blood, or gore.
+---
+title: Violence Detection
+emoji: 😻
+colorFrom: purple
+colorTo: yellow
+sdk: gradio
+sdk_version: 2.9.1
+app_file: app.py
+pinned: false
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces#reference
+
+Voici un API destiné à détecter les images qui suscite de la violence et des images pornographiques 
